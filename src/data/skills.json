@@ -1,0 +1,607 @@
+{
+    "categories": [
+        {
+            "id": "audio",
+            "name": {
+                "en": "Audio & Acoustics",
+                "es": "Audio y Acústica"
+            },
+            "icon": "🎛️",
+            "skills": [
+                {
+                    "name": "Studio Acoustics",
+                    "icon": "🔉",
+                    "experiences": [
+                        1,
+                        6
+                    ],
+                    "projects": [
+                        "project-nico",
+                        "project-iso-bambi",
+                        "project-iso-calipso",
+                        "project-iso-el-club-1",
+                        "project-iso-el-club-2",
+                        "project-iso-el-club-stream",
+                        "project-iso-estani-y-fmk",
+                        "project-iso-esteban",
+                        "project-iso-levy",
+                        "project-iso-luck-ra",
+                        "project-iso-mariano-mellino",
+                        "project-iso-new-york",
+                        "project-iso-robleis",
+                        "project-iso-santutu",
+                        "project-iso-tokio",
+                        "project-iso-unicornio",
+                        "project-exec-big-one",
+                        "project-exec-demente",
+                        "project-exec-fifty-emanero",
+                        "project-exec-zuriana",
+                        "project-exec-pablo-cadelago",
+                        "project-exec-ana-bello",
+                        "project-exec-maxi-espindola",
+                        "project-exec-antezana-247",
+                        "project-exec-planeta-analogico",
+                        "project-exec-estani-fmk-estudio-nuevo",
+                        "project-exec-mawz",
+                        "project-exec-yami-safdie",
+                        "project-exec-lit-killah"
+                    ]
+                },
+                {
+                    "name": "Live Sound",
+                    "icon": "🎤",
+                    "experiences": [
+                        2
+                    ],
+                    "projects": [
+                        "project-exec-robleis-tour",
+                        "project-exec-robleis-en-olga",
+                        "project-exec-robleis-c-art-media",
+                        "project-exec-robleis-rosario"
+                    ]
+                },
+                {
+                    "name": "Mixing & Mastering",
+                    "icon": "🎚️",
+                    "experiences": [
+                        1,
+                        2
+                    ],
+                    "projects": [
+                        "project-nico",
+                        "project-exec-fifty-emanero",
+                        "project-exec-big-one",
+                        "project-exec-pablo-cadelago",
+                        "project-exec-robleis-tour"
+                    ]
+                },
+                {
+                    "name": "TR60 Calculation",
+                    "icon": "📊",
+                    "experiences": [
+                        1,
+                        6
+                    ],
+                    "projects": [
+                        "project-nico"
+                    ]
+                },
+                {
+                    "name": "Acoustic Simulation",
+                    "icon": "📐",
+                    "experiences": [
+                        1,
+                        6
+                    ],
+                    "projects": [
+                        "project-nico",
+                        "project-iso-luck-ra",
+                        "project-iso-mariano-mellino",
+                        "project-iso-tokio",
+                        "project-iso-estani-y-fmk",
+                        "project-impulso-studio"
+                    ]
+                },
+                {
+                    "name": "Stage Management",
+                    "icon": "🎭",
+                    "experiences": [
+                        2
+                    ],
+                    "projects": [
+                        "project-exec-robleis-tour",
+                        "project-exec-robleis-en-olga",
+                        "project-exec-robleis-c-art-media",
+                        "project-exec-robleis-rosario"
+                    ]
+                },
+                {
+                    "name": "SMPTE/MIDI Sync",
+                    "icon": "⏱️",
+                    "experiences": [
+                        2
+                    ],
+                    "projects": [
+                        "project-exec-robleis-tour",
+                        "project-exec-robleis-en-olga",
+                        "project-exec-robleis-c-art-media",
+                        "project-exec-robleis-rosario"
+                    ]
+                },
+                {
+                    "name": "Ableton Live",
+                    "icon": "🎹",
+                    "experiences": [
+                        1,
+                        2
+                    ],
+                    "projects": [
+                        "project-exec-robleis-tour",
+                        "project-exec-robleis-en-olga",
+                        "project-exec-robleis-c-art-media",
+                        "project-exec-robleis-rosario",
+                        "project-nanofig"
+                    ]
+                },
+                {
+                    "name": "Pro Tools",
+                    "icon": "🎧",
+                    "experiences": [
+                        1,
+                        2
+                    ],
+                    "projects": [
+                        "project-nico",
+                        "project-exec-fifty-emanero",
+                        "project-exec-big-one",
+                        "project-exec-pablo-cadelago",
+                        "project-exec-robleis-tour",
+                        "project-exec-robleis-en-olga",
+                        "project-exec-robleis-c-art-media",
+                        "project-exec-robleis-rosario"
+                    ]
+                },
+                {
+                    "name": "Universal Audio",
+                    "icon": "🔊",
+                    "experiences": [
+                        1
+                    ],
+                    "projects": [
+                        "project-nico",
+                        "project-exec-big-one",
+                        "project-exec-pablo-cadelago",
+                        "project-exec-fifty-emanero"
+                    ]
+                },
+                {
+                    "name": "SketchUp",
+                    "icon": "🏠",
+                    "experiences": [
+                        1,
+                        6
+                    ],
+                    "projects": [
+                        "project-iso-bambi",
+                        "project-iso-calipso",
+                        "project-iso-el-club-1",
+                        "project-iso-el-club-2",
+                        "project-iso-el-club-stream",
+                        "project-iso-estani-y-fmk",
+                        "project-iso-esteban",
+                        "project-iso-levy",
+                        "project-iso-luck-ra",
+                        "project-iso-mariano-mellino",
+                        "project-iso-new-york",
+                        "project-iso-robleis",
+                        "project-iso-santutu",
+                        "project-iso-tokio",
+                        "project-iso-unicornio",
+                        "project-exec-demente",
+                        "project-exec-eli",
+                        "project-exec-ana-bello",
+                        "project-exec-maxi-espindola",
+                        "project-exec-antezana-247",
+                        "project-exec-planeta-analogico",
+                        "project-exec-estani-fmk-estudio-nuevo",
+                        "project-exec-zuriana"
+                    ]
+                },
+                {
+                    "name": "Blender",
+                    "icon": "🎨",
+                    "experiences": [
+                        1
+                    ],
+                    "projects": [
+                        "project-iso-bambi",
+                        "project-iso-calipso",
+                        "project-iso-el-club-1",
+                        "project-iso-el-club-2",
+                        "project-iso-el-club-stream",
+                        "project-iso-estani-y-fmk",
+                        "project-iso-esteban",
+                        "project-iso-levy",
+                        "project-iso-luck-ra",
+                        "project-iso-mariano-mellino",
+                        "project-iso-new-york",
+                        "project-iso-robleis",
+                        "project-iso-santutu",
+                        "project-iso-tokio",
+                        "project-iso-unicornio"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "sap",
+            "name": {
+                "en": "SAP & Automation",
+                "es": "SAP y Automatización"
+            },
+            "icon": "⚙️",
+            "skills": [
+                {
+                    "name": "SAP Basis",
+                    "icon": "🏢",
+                    "experiences": [
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "name": "STMS/AL11",
+                    "icon": "📦",
+                    "experiences": [
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "name": "Dollar Universe",
+                    "icon": "🌐",
+                    "experiences": [
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "name": "DLEI Implementation",
+                    "icon": "🔧",
+                    "experiences": [
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "name": "Job Scheduling",
+                    "icon": "📅",
+                    "experiences": [
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "name": "NetBackup",
+                    "icon": "💾",
+                    "experiences": [
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "name": "CFT/MQ Integration",
+                    "icon": "🔀",
+                    "experiences": [
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "name": "File Transfer Auto",
+                    "icon": "📁",
+                    "experiences": [
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "name": "API Integration",
+                    "icon": "🔌",
+                    "experiences": [
+                        3,
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "name": "System Monitoring",
+                    "icon": "📈",
+                    "experiences": [
+                        4,
+                        5
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "sysadmin",
+            "name": {
+                "en": "Systems & DevOps",
+                "es": "Sistemas y DevOps"
+            },
+            "icon": "🖥️",
+            "skills": [
+                {
+                    "name": "Linux/UNIX Admin",
+                    "icon": "🐧",
+                    "experiences": [
+                        3,
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "name": "Bash/Shell",
+                    "icon": "📜",
+                    "experiences": [
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "name": "Python",
+                    "icon": "🐍",
+                    "experiences": [
+                        1,
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "name": "Server Monitoring",
+                    "icon": "📈",
+                    "experiences": [
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "name": "Backup Automation",
+                    "icon": "💾",
+                    "experiences": [
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "name": "DNS/SSL/TLS",
+                    "icon": "🔒",
+                    "experiences": [
+                        3
+                    ]
+                },
+                {
+                    "name": "CDN/HTTP Headers",
+                    "icon": "🌍",
+                    "experiences": [
+                        3
+                    ]
+                },
+                {
+                    "name": "cPanel/WHM",
+                    "icon": "🎛️",
+                    "experiences": [
+                        3
+                    ]
+                },
+                {
+                    "name": "Network Diagnostics",
+                    "icon": "🔍",
+                    "experiences": [
+                        3,
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "name": "SOC Compliance",
+                    "icon": "✅",
+                    "experiences": [
+                        4,
+                        5
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "dev",
+            "name": {
+                "en": "Web & Development",
+                "es": "Web y Desarrollo"
+            },
+            "icon": "🌐",
+            "skills": [
+                {
+                    "name": "JavaScript",
+                    "icon": "📜",
+                    "experiences": [
+                        1
+                    ],
+                    "projects": [
+                        "project-portfolio-site",
+                        "project-nanofig",
+                        "project-impulso-studio"
+                    ]
+                },
+                {
+                    "name": "React",
+                    "icon": "⚛️",
+                    "experiences": [
+                        1
+                    ],
+                    "projects": [
+                        "project-portfolio-site",
+                        "project-impulso-studio"
+                    ]
+                },
+                {
+                    "name": "HTML/CSS",
+                    "icon": "🎨",
+                    "experiences": [
+                        1,
+                        3
+                    ],
+                    "projects": [
+                        "project-portfolio-site",
+                        "project-impulso-studio"
+                    ]
+                },
+                {
+                    "name": "Three.js",
+                    "icon": "🧊",
+                    "experiences": [
+                        1
+                    ]
+                },
+                {
+                    "name": "MySQL",
+                    "icon": "🗄️",
+                    "experiences": [
+                        3
+                    ]
+                },
+                {
+                    "name": "WordPress",
+                    "icon": "📝",
+                    "experiences": [
+                        3
+                    ]
+                },
+                {
+                    "name": "Git",
+                    "icon": "📂",
+                    "experiences": [
+                        1,
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "name": "n8n/Make",
+                    "icon": "🔗",
+                    "experiences": [
+                        1
+                    ]
+                },
+                {
+                    "name": "Notion API",
+                    "icon": "📓",
+                    "experiences": [
+                        1
+                    ]
+                },
+                {
+                    "name": "Arduino",
+                    "icon": "🤖",
+                    "experiences": [
+                        1,
+                        6
+                    ],
+                    "projects": [
+                        "project-nanofig"
+                    ]
+                },
+                {
+                    "name": "AI-Assisted Development",
+                    "icon": "🧠",
+                    "experiences": [
+                        1
+                    ],
+                    "projects": [
+                        "project-portfolio-site"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "soft",
+            "name": {
+                "en": "Professional",
+                "es": "Profesional"
+            },
+            "icon": "💼",
+            "skills": [
+                {
+                    "name": "ITSM/ITIL",
+                    "icon": "📋",
+                    "experiences": [
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "name": "Incident Resolution",
+                    "icon": "🔧",
+                    "experiences": [
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "name": "Log Analysis",
+                    "icon": "📊",
+                    "experiences": [
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "name": "Technical Docs",
+                    "icon": "📄",
+                    "experiences": [
+                        1,
+                        2,
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "name": "Remote Collaboration",
+                    "icon": "🌐",
+                    "experiences": [
+                        1,
+                        3,
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "name": "SLA Compliance",
+                    "icon": "⏰",
+                    "experiences": [
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "name": "Project Management",
+                    "icon": "📊",
+                    "experiences": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "name": "Bilingual EN/ES",
+                    "icon": "🗣️",
+                    "experiences": [
+                        3,
+                        4,
+                        5
+                    ]
+                }
+            ]
+        }
+    ]
+}

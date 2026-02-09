@@ -1,0 +1,102 @@
+{
+    "en": {
+        "nav": {
+            "home": "Home",
+            "about": "About",
+            "portfolio": "Portfolio",
+            "resume": "Resume"
+        },
+        "hero": {
+            "title1": "Engineer.",
+            "title2": "Developer.",
+            "title3": "Creative.",
+            "subtitle": "Technical Support Engineer | Audio Engineer | Python • Bash • Linux • Automation | Remote Work",
+            "founderText": "Founder & Lead Developer at",
+            "viewPortfolio": "View Portfolio",
+            "viewResume": "View Resume"
+        },
+        "about": {
+            "title": "About Me",
+            "p1": "I understand the world through systems. What began as a fascination with the laws of physics and the behavior of sound evolved into an obsession with software architecture and automation. My career is not a straight line: it's a network of connections ranging from acoustic design to managing critical enterprise servers.",
+            "p2": "This space is the record of that journey. My philosophy is rooted in continuous learning applied to real-world projects, integrating emerging technologies as a professional compass to build solutions where the physical and logical meet. Every project here is a piece of that puzzle, an experiment in search of technical efficiency, whether optimizing a workflow or writing code."
+        },
+        "skills": {
+            "title": "Technical Skills"
+        },
+        "portfolio": {
+            "title": "Selected Projects"
+        },
+        "resume": {
+            "experience": "Experience",
+            "education": "Education"
+        },
+        "footer": {
+            "rights": "All rights reserved.",
+            "powered": "Portfolio powered by React & Vite"
+        },
+        "scopes": {
+            "turnkey": "Turnkey Project (Design + Execution)",
+            "design": "Design & Acoustic Calculation",
+            "execution": "Site Supervision / Execution",
+            "tuning": "Measurement & Calibration",
+            "systems": "Systems Integration",
+            "consulting": "Consulting",
+            "cabling": "Wiring & Audio Patchbays",
+            "diagramming": "Equipment Diagramming & Interconnection",
+            "consulting_tech": "Technical Gear Consulting",
+            "treatment_impl": "Acoustic Treatment Implementation",
+            "resonators": "Low-Frequency Resonators",
+            "diffusers": "Acoustic Diffusers"
+        }
+    },
+    "es": {
+        "nav": {
+            "home": "Inicio",
+            "about": "Sobre Mí",
+            "portfolio": "Portafolio",
+            "resume": "Experiencia"
+        },
+        "hero": {
+            "title1": "Engineer.",
+            "title2": "Developer.",
+            "title3": "Creative.",
+            "subtitle": "Technical Support Engineer | Audio Engineer | Python • Bash • Linux • Automation | Remote Work",
+            "founderText": "Founder & Lead Developer at",
+            "viewPortfolio": "View Portfolio",
+            "viewResume": "View Resume"
+        },
+        "about": {
+            "title": "Sobre Mí",
+            "p1": "Entiendo el mundo a través de sistemas. Lo que empezó como una fascinación por las leyes de la física y el comportamiento del sonido evolucionó hacia una obsesión por la arquitectura del software y la automatización. Mi trayectoria no es una línea recta: es una red de conexiones que va desde el diseño acústico hasta la administración de servidores críticos.",
+            "p2": "Este espacio es el registro de esa búsqueda. Mi enfoque se basa en el aprendizaje continuo aplicado a proyectos reales, integrando nuevas tecnologías como un norte profesional para construir soluciones donde lo físico y lo lógico se encuentran. Cada proyecto aquí es una pieza de ese rompecabezas, un experimento en busca de la eficiencia técnica, ya sea optimizando un flujo de trabajo o escribiendo código."
+        },
+        "skills": {
+            "title": "Habilidades Técnicas"
+        },
+        "portfolio": {
+            "title": "Proyectos Seleccionados"
+        },
+        "resume": {
+            "experience": "Experiencia",
+            "education": "Educación"
+        },
+        "footer": {
+            "rights": "Todos los derechos reservados.",
+            "powered": "Portafolio desarrollado con React y Vite"
+        },
+        "scopes": {
+            "turnkey": "Proyecto Llave en Mano (Diseño + Obra)",
+            "design": "Diseño y Cálculo Acústico",
+            "execution": "Dirección de Obra / Ejecución",
+            "tuning": "Medición y Calibración",
+            "systems": "Integración de Sistemas",
+            "consulting": "Consultoría",
+            "cabling": "Cableado y Patcheras de Audio",
+            "diagramming": "Diagramación e Interconexión de Equipos",
+            "consulting_tech": "Asesoría en Equipamiento Técnico",
+            "treatment_impl": "Implementación de Tratamiento Acústico",
+            "resonators": "Instalación de Resonadores",
+            "diffusers": "Instalación de Difusores"
+        }
+    }
+}

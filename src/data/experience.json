@@ -1,0 +1,156 @@
+{
+  "experience": [
+    {
+      "id": 1,
+      "role": {
+        "en": "Audio Engineer | Technical PM",
+        "es": "Ingeniero de Audio | PM Técnico"
+      },
+      "company": "Impulso Studio",
+      "period": "Aug 2022 - Present",
+      "mode": "Hybrid",
+      "skills": [
+        "Acoustics",
+        "Python",
+        "React",
+        "AutoCAD",
+        "Project Management",
+        "AI-Assisted Development"
+      ],
+      "description": {
+        "en": "Founded a **studio design consultancy** specializing in professional **recording studios**, **control rooms**, and **acoustic treatment**. Led end-to-end project delivery from initial consultation to final handover.\n\n• Delivered **10+ studio projects** including design, acoustic modeling, and technical documentation\n• Built **impulso.studio** : a custom **React web app** for **TR60 calculation** and acoustic simulation\n• Designed **audio system integrations**: signal routing, monitoring chains, and calibration\n• Created **technical blueprints** using **AutoCAD** and specification documents\n• Managed **client relationships**, vendor coordination, and remote team collaboration",
+        "es": "Fundé una **consultoría de diseño de estudios** especializada en **estudios de grabación** profesionales, **control rooms** y **tratamiento acústico**. Lideré proyectos de principio a fin, desde la consulta inicial hasta la entrega final.\n\n• Entregué **más de 10 proyectos de estudio** incluyendo diseño, modelado acústico y documentación técnica\n• Desarrollé **impulso.studio** : una **aplicación web en React** para **cálculo de TR60** y simulación acústica\n• Diseñé **integraciones de sistemas de audio**: ruteo de señal, cadenas de monitoreo y calibración\n• Creé **planos técnicos** usando **AutoCAD** y documentos de especificaciones\n• Gestioné **relaciones con clientes**, coordinación de proveedores y colaboración con equipos remotos"
+      },
+      "type": "work"
+    },
+    {
+      "id": 2,
+      "role": {
+        "en": "Playback Engineer | Stage Lead",
+        "es": "Ingeniero de Playback | Jefe de Escenario"
+      },
+      "company": "Team Robleis",
+      "period": "Apr 2024 - Nov 2025",
+      "mode": "Hybrid",
+      "skills": [
+        "Ableton Live",
+        "MIDI",
+        "Live Sound",
+        "SMPTE"
+      ],
+      "description": {
+        "en": "Led **stage technical operations** and **playback systems** for one of Argentina's top content creators, performing at **25+ live shows** across national and international venues.\n\n• Designed **redundant playback systems** using **Ableton Live**, **PlayAudio12**, and **Universal Audio** interfaces\n• Created **stage plots**, **input lists**, and **SMPTE timecode** synchronization specs\n• Coordinated **audio/video/lighting integration** during soundchecks and rehearsals\n• Managed **MIDI automation**, **signal routing**, and real-time cue triggering\n• Ensured **zero-failure reliability** in high-pressure touring environments",
+        "es": "Lideré **operaciones técnicas de escenario** y **sistemas de playback** para uno de los creadores de contenido más importantes de Argentina, actuando en **más de 25 shows en vivo** en recintos nacionales e internacionales.\n\n• Diseñé **sistemas de playback redundantes** usando **Ableton Live**, **PlayAudio12** e interfaces **Universal Audio**\n• Creé **stage plots**, **input lists** y especificaciones de sincronización **SMPTE timecode**\n• Coordiné **integración de audio/video/iluminación** durante soundchecks y ensayos\n• Gestioné **automatización MIDI**, **ruteo de señales** y disparo de cues en tiempo real\n• Aseguré **confiabilidad sin fallas** en entornos de gira de alta presión"
+      },
+      "type": "work"
+    },
+    {
+      "id": 3,
+      "role": {
+        "en": "Web Administrator",
+        "es": "Administrador Web"
+      },
+      "company": "ElSurhost",
+      "period": "Aug 2024 - Sep 2025",
+      "mode": "Remote",
+      "skills": [
+        "WordPress",
+        "Linux",
+        "CDN",
+        "MySQL",
+        "DNS"
+      ],
+      "description": {
+        "en": "Managed **web hosting infrastructure** and provided **technical support** for a hosting company serving **WordPress** clients across Latin America.\n\n• Configured **CDN** (Cloudflare, BunnyCDN) and **SSL certificates** (Let's Encrypt) for client sites\n• Handled **server security**: firewall rules, malware scanning, and IP blocking\n• Performed **MySQL database** migrations, backups, and restoration procedures\n• Diagnosed **site downtime**, **DNS propagation** issues, and performance bottlenecks\n• Provided **bilingual technical support** (Spanish/English) via ticket system",
+        "es": "Gestioné **infraestructura de hosting web** y brindé **soporte técnico** para una empresa de hosting que atiende clientes **WordPress** en toda Latinoamérica.\n\n• Configuré **CDN** (Cloudflare, BunnyCDN) y **certificados SSL** (Let's Encrypt) para sitios de clientes\n• Gestioné **seguridad del servidor**: reglas de firewall, escaneo de malware y bloqueo de IPs\n• Realicé migraciones, backups y restauraciones de **bases de datos MySQL**\n• Diagnostiqué **caídas de sitios**, problemas de **propagación DNS** y cuellos de botella de rendimiento\n• Brindé **soporte técnico bilingüe** (Español/Inglés) vía sistema de tickets"
+      },
+      "type": "work"
+    },
+    {
+      "id": 4,
+      "role": {
+        "en": "Technical Support | SysAdmin",
+        "es": "Soporte Técnico | SysAdmin"
+      },
+      "company": "Atos (Stellantis)",
+      "period": "Jul 2018 - Jun 2024",
+      "mode": "Remote",
+      "skills": [
+        "Bash",
+        "Python",
+        "Linux",
+        "Automation",
+        "ITSM"
+      ],
+      "description": {
+        "en": "Provided **L1/L2 technical support** and **systems administration** for **Stellantis** (formerly Peugeot Citroën) production environments. **6 years** of experience in enterprise IT operations.\n\n• Developed **Bash** and **Python scripts** for process automation and monitoring\n• Orchestrated **scheduled jobs** using **Dollar Universe** in production environments\n• Managed secure file transfers via **CFT** and **IBM MQ** messaging\n• Executed **backup/restore operations** with **NetBackup** across data centers\n• Ensured **SOC compliance** and created **SOP documentation** for operational procedures\n• **Trained and mentored** new team members in tools and workflows\n• **Bilingual communication** (English/Spanish) with global support teams",
+        "es": "Brindé **soporte técnico L1/L2** y **administración de sistemas** para ambientes productivos de **Stellantis** (anteriormente Peugeot Citroën). **6 años** de experiencia en operaciones IT empresariales.\n\n• Desarrollé **scripts en Bash** y **Python** para automatización de procesos y monitoreo\n• Orquesté **jobs programados** usando **Dollar Universe** en ambientes productivos\n• Gestioné transferencias seguras vía **CFT** y mensajería **IBM MQ**\n• Ejecuté **operaciones de backup/restore** con **NetBackup** en data centers\n• Aseguré **cumplimiento SOC** y creé **documentación SOP** para procedimientos operativos\n• **Capacité y mentoree** nuevos miembros del equipo en herramientas y workflows\n• **Comunicación bilingüe** (Inglés/Español) con equipos de soporte globales"
+      },
+      "type": "work"
+    },
+    {
+      "id": 5,
+      "role": {
+        "en": "SAP Specialist",
+        "es": "Especialista SAP"
+      },
+      "company": "Experis (Peugeot)",
+      "period": "Apr 2016 - Jul 2018",
+      "mode": "Remote",
+      "skills": [
+        "SAP",
+        "Scripting",
+        "NetBackup",
+        "Monitoring"
+      ],
+      "description": {
+        "en": "**SAP environment support** and **data center operations** for Peugeot Citroën Argentina. Entry-level role that launched my IT career.\n\n• Managed **pre-production** and **production SAP** environments\n• Executed **backup/restore** operations with **NetBackup**\n• Automated workflows using **cron** and **Dollar Universe** schedulers\n• Monitored system alerts and performed **incident triage**\n• Collaborated with infrastructure and development teams on deployments",
+        "es": "**Soporte de ambientes SAP** y **operaciones de data center** para Peugeot Citroën Argentina. Rol inicial que lanzó mi carrera en IT.\n\n• Gestioné ambientes **SAP de pre-producción** y **producción**\n• Ejecuté operaciones de **backup/restore** con **NetBackup**\n• Automaticé workflows usando **cron** y schedulers **Dollar Universe**\n• Monitoreé alertas del sistema y realicé **triaje de incidentes**\n• Colaboré con equipos de infraestructura y desarrollo en despliegues"
+      },
+      "type": "work"
+    },
+    {
+      "id": 6,
+      "role": {
+        "en": "Acoustic Engineering",
+        "es": "Ingeniería Acústica"
+      },
+      "company": "UNTREF",
+      "period": "Mar 2016 - Dec 2022",
+      "mode": "On-site",
+      "skills": [
+        "Acoustics",
+        "DSP",
+        "Physics",
+        "MATLAB"
+      ],
+      "description": {
+        "en": "Degree in Acoustic Engineering with focus on architectural acoustics, digital signal processing, and physics of sound.",
+        "es": "Carrera de Ingeniería Acústica con enfoque en acústica arquitectónica, procesamiento digital de señales y física del sonido."
+      },
+      "type": "education"
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "degree": {
+        "en": "Acoustic Engineering",
+        "es": "Ingeniería Acústica"
+      },
+      "institution": "UNTREF",
+      "period": "2016 - 2022",
+      "description": {
+        "en": "Specialized in architectural acoustics, digital signal processing, and physics of sound.",
+        "es": "Especialización en acústica arquitectónica, procesamiento digital de señales y física del sonido."
+      },
+      "type": "education"
+    }
+  ],
+  "socials": {
+    "linkedin": "https://linkedin.com/in/emanuel-camargo",
+    "github": "https://github.com/Startwar",
+    "email": "mailto:eamc2004@gmail.com",
+    "impulso": "https://impulso.studio"
+  }
+}

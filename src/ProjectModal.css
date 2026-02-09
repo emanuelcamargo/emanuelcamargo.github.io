@@ -1,0 +1,228 @@
+/* src/ProjectModal.css */
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.85);
+    backdrop-filter: blur(8px);
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+}
+
+.modal-container {
+    width: 90%;
+    max-width: 1200px;
+    height: 85vh;
+    /* Fixed height relative to viewport */
+    display: flex;
+    flex-direction: column;
+    border-radius: 24px;
+    overflow: hidden;
+    background: var(--bg-card);
+    border: 1px solid var(--text-accent);
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+}
+
+.modal-header {
+    padding: 1.5rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    flex-shrink: 0;
+    background: inherit;
+    /* Ensure background matches */
+    z-index: 10;
+}
+
+.modal-title h2 {
+    font-size: 1.6rem;
+    margin: 0;
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+.modal-subtitle {
+    font-size: 0.95rem;
+    color: var(--text-secondary);
+    margin-top: 0.4rem;
+    font-weight: 500;
+    opacity: 0.8;
+}
+
+.modal-close-btn {
+    background: transparent;
+    border: none;
+    color: var(--text-secondary);
+    font-size: 1.5rem;
+    cursor: pointer;
+    padding: 0.5rem;
+    line-height: 1;
+    transition: color 0.2s;
+}
+
+.modal-close-btn:hover {
+    color: var(--text-primary);
+}
+
+.modal-body {
+    display: flex;
+    flex: 1;
+    min-height: 0;
+    /* Crucial for nested flex scrolling */
+    flex-direction: row;
+    overflow: hidden;
+    /* Container doesn't scroll, children do */
+}
+
+.modal-gallery {
+    flex: 1 1 50%;
+    /* Take up half width by default */
+    position: relative;
+    background: #000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.modal-gallery img {
+    max-height: 100%;
+    max-width: 100%;
+    width: auto;
+    height: auto;
+    object-fit: contain;
+}
+
+/* ... Navigation buttons unchanged ... */
+
+.gallery-nav-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    font-size: 1.2rem;
+    z-index: 10;
+    transition: background 0.2s;
+}
+
+.gallery-nav-btn:hover {
+    background: rgba(0, 0, 0, 0.8);
+}
+
+.gallery-prev {
+    left: 1rem;
+}
+
+.gallery-next {
+    right: 1rem;
+}
+
+.gallery-counter {
+    position: absolute;
+    bottom: 1rem;
+    left: 50%;
+    transform: translateX(-50%);
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    padding: 0.2rem 0.8rem;
+    border-radius: 12px;
+    font-size: 0.8rem;
+}
+
+.modal-details {
+    flex: 1 1 50%;
+    padding: 1.5rem 2rem;
+    overflow-y: auto;
+    /* Scrollable text */
+    display: flex;
+    flex-direction: column;
+}
+
+/* ... Details content unchanged ... */
+
+.modal-project-date {
+    font-size: 1rem;
+    color: var(--text-accent);
+    margin-bottom: 0.5rem;
+}
+
+.modal-tags {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    margin-bottom: 1.5rem;
+}
+
+.tag-badge {
+    background: rgba(255, 255, 255, 0.05);
+    padding: 4px 10px;
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    color: #d0d0d0;
+    font-size: 0.75rem;
+}
+
+.project-description-content {
+    line-height: 1.6;
+    color: #ccc;
+    font-size: 0.92rem;
+    white-space: pre-line;
+}
+
+/* RESPONSIVE: Tablet & Mobile */
+@media (max-width: 900px) {
+    .modal-overlay {
+        padding: 0;
+        align-items: flex-end;
+        /* Sheet-like */
+    }
+
+    .modal-container {
+        width: 100%;
+        height: 100vh;
+        /* Full screen height strictly */
+        max-width: 100%;
+        border-radius: 0;
+        border: none;
+    }
+
+    .modal-header {
+        padding: 1rem;
+        /* Smaller padding on mobile */
+    }
+
+    .modal-body {
+        flex-direction: column;
+        overflow-y: auto;
+        /* Scrollable body */
+        /* Note: overflow-y on body allows whole thing to scroll if content is long, 
+           BUT we want fixed header. So body should scroll *internally*?
+           No, on mobile better to let body scroll. */
+    }
+
+    .modal-gallery {
+        flex: 0 0 40vh;
+        /* Fixed percentage height for image area */
+        width: 100%;
+        min-height: 250px;
+    }
+
+    .modal-details {
+        flex: 1 0 auto;
+        overflow-y: visible;
+        /* Let parent scroll */
+        padding: 1rem;
+    }
+}
