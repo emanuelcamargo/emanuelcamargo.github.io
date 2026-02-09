@@ -253,7 +253,7 @@ export const getPortfolioItems = (data) => {
                 },
                 projectType: app.projectType,
                 description: app.description, // IMPORTANT: Pass the description from JSON
-                link: app.name === "Portfolio" ? "https://github.com/Startwar/portfolio" : "https://impulso.studio"
+                link: app.name === "Portfolio" ? "https://github.com/emanuelcamargo/emanuelcamargo.github.io" : "https://impulso.studio"
             });
         });
     }
